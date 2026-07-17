@@ -14,7 +14,7 @@ public:
         }
 
         for(auto &it : mpp){
-            auto &s= it.second;
+            vector<string>s(it.second);
             sort(s.begin(), s.end());
             for(int i=2; i<s.size(); i++){
                 if(toMinutes(s[i]) - toMinutes(s[i-2]) < 60){
