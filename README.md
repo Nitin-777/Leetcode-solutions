@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/Nitin-777/Leetcode-solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2933-high-access-employees](https://github.com/Nitin-777/Leetcode-solutions/tree/master/2933-high-access-employees) |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
