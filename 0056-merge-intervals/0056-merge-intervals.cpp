@@ -17,15 +17,10 @@ public:
             int cs=intervals[i][0];
             int ce=intervals[i][1];
 
-            if(cs >= ps && cs <= pe){
+            if(cs >= ps && cs <= pe || ce <=pe){
                 ans.pop_back();
                 ans.push_back({min(cs,ps),max(pe,ce)});
             }
-            else if(ce <=pe ){
-                ans.pop_back();
-                ans.push_back({min(cs,ps),max(pe,ce)});
-            }
-
             else{
                 ans.push_back({cs,ce});
             }
