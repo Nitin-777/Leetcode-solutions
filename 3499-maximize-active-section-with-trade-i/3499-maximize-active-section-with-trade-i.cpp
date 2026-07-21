@@ -3,7 +3,6 @@ public:
     int maxActiveSectionsAfterTrade(string s) {
         vector<int>zero;
         int one=0;
-        int cnt=0;
         for(int i=0; i<s.size(); i++) {
             if(s[i] == '1') one++;
         }
