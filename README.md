@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0143-reorder-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
 ## Breadth-First Search
 |  |
@@ -135,8 +137,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
