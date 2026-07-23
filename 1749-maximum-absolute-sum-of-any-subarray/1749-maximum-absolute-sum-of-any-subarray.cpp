@@ -4,20 +4,17 @@ public:
 
         int mini=INT_MAX;
         int maxi=INT_MIN;
-         int sum=0;
+         int sum1=0;
+         int sum2=0;
         for(int i=0; i<nums.size(); i++){
-             sum+=nums[i];
-             mini=min(mini,sum);
-             if(sum > 0) sum=0;
+             sum1+=nums[i];
+             sum2+=nums[i];
+             mini=min(mini,sum1);
+             maxi=max(maxi,sum2);
+             if(sum2 < 0) sum2=0;
+             if(sum1 > 0) sum1=0;
         }
-        sum=0;
-
-        for(int i=0; i<nums.size(); i++){
-            sum+=nums[i];
-            maxi=max(maxi,sum);
-            if(sum < 0) sum=0;
-        }
-
+       
         return max(abs(mini),abs(maxi));
         
     }
