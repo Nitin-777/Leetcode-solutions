@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0386-lexicographical-numbers](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0606-construct-string-from-binary-tree) |
 ## Binary Tree
@@ -162,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1381-design-a-stack-with-increment-operation) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
