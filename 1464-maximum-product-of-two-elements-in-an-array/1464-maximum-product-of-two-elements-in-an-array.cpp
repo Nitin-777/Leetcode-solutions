@@ -8,6 +8,7 @@ public:
             if(nums[i] > mx1) {
                 mx2=mx1;
                 mx1=nums[i];
+                continue;
             }
             else if(nums[i] > mx2){
                 mx2=nums[i];
