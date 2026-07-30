@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Nitin-777/Leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2933-high-access-employees](https://github.com/Nitin-777/Leetcode-solutions/tree/master/2933-high-access-employees) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nitin-777/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Nitin-777/Leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nitin-777/Leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sorting
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/Nitin-777/Leetcode-solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nitin-777/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nitin-777/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Nitin-777/Leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Number Theory
 |  |
