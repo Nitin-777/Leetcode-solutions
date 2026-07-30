@@ -11,7 +11,7 @@ public:
            vector<pair<char,int>> ch;
            for(int i=0; i<26; i++){
               if(freq[i] > 0){
-                 ch.push_back({i - 'a' , freq[i]});
+                 ch.push_back({ 'a' + i , freq[i]});
               }
            }
           
