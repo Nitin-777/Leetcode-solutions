@@ -8,17 +8,14 @@ public:
             freq[word[i] - 'a']++;
            }
 
-           vector<pair<char,int>> ch;
+           vector<int> ch;
            for(int i=0; i<26; i++){
               if(freq[i] > 0){
-                 ch.push_back({ 'a' + i , freq[i]});
+                 ch.push_back(freq[i]);
               }
            }
           
-          sort(ch.begin(), ch.end(), [](auto &a, auto &b){
-                
-                return a.second > b.second;
-          });
+          sort(ch.begin(), ch.end(), greater<int>());
           int ans=0;
           int cnt=1;
           int curr=1;
@@ -29,7 +26,7 @@ public:
                    cnt=1;
                }
 
-               ans+=(curr * ch[i].second);
+               ans+=(curr * ch[i]);
                cnt++;
           }
 
