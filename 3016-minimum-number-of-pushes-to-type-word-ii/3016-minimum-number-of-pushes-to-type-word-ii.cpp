@@ -29,7 +29,6 @@ public:
                ans+=(curr * ch[i]);
                cnt++;
           }
-
           return ans;
          
     }
