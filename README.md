@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0403-frog-jump](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0403-frog-jump) |
+| [0486-predict-the-winner](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0486-predict-the-winner](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0403-frog-jump](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0403-frog-jump) |
+| [0486-predict-the-winner](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Stack
 |  |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
 ## Breadth-First Search
 |  |
@@ -222,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0078-subsets) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
