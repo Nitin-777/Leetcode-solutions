@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0403-frog-jump) |
 | [0486-predict-the-winner](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
+| [0877-stone-game](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nitin-777/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Nitin-777/Leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0403-frog-jump](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0403-frog-jump) |
 | [0486-predict-the-winner](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0877-stone-game) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Stack
 |  |
@@ -230,4 +233,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
