@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1406-stone-game-iii](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1406-stone-game-iii) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/Nitin-777/Leetcode-solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 ## Math
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [0877-stone-game](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nitin-777/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0403-frog-jump) |
 | [0486-predict-the-winner](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Stack
@@ -241,13 +245,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
