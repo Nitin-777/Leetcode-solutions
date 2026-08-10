@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1686-stone-game-vi](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1686-stone-game-vi) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/Nitin-777/Leetcode-solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Nitin-777/Leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2933-high-access-employees](https://github.com/Nitin-777/Leetcode-solutions/tree/master/2933-high-access-employees) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1686-stone-game-vi](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1686-stone-game-vi) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/Nitin-777/Leetcode-solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1686-stone-game-vi](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1686-stone-game-vi) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/Nitin-777/Leetcode-solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nitin-777/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nitin-777/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1686-stone-game-vi](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1686-stone-game-vi) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nitin-777/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Nitin-777/Leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -227,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1686-stone-game-vi](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1686-stone-game-vi) |
 ## Counting Sort
 |  |
 | ------- |
@@ -247,14 +252,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1686-stone-game-vi](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1686-stone-game-vi) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1686-stone-game-vi](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1686-stone-game-vi) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1686-stone-game-vi](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1686-stone-game-vi) |
 <!---LeetCode Topics End-->
