@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1563-stone-game-v) |
 | [1686-stone-game-vi](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1686-stone-game-vi) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1872-stone-game-viii](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Nitin-777/Leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/Nitin-777/Leetcode-solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/Nitin-777/Leetcode-solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 ## Math
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1563-stone-game-v) |
 | [1686-stone-game-vi](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1686-stone-game-vi) |
+| [1872-stone-game-viii](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Nitin-777/Leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nitin-777/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1563-stone-game-v) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1872-stone-game-viii](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1872-stone-game-viii) |
 ## Stack
 |  |
 | ------- |
@@ -279,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1563-stone-game-v) |
 | [1686-stone-game-vi](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1686-stone-game-vi) |
+| [1872-stone-game-viii](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Nitin-777/Leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
@@ -286,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1686-stone-game-vi](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1686-stone-game-vi) |
+| [1872-stone-game-viii](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Nitin-777/Leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -293,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1686-stone-game-vi](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1686-stone-game-vi) |
+| [1872-stone-game-viii](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Nitin-777/Leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Sliding Window
 |  |
