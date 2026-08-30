@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Nitin-777/Leetcode-solutions/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Nitin-777/Leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/Nitin-777/Leetcode-solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2643-row-with-maximum-ones](https://github.com/Nitin-777/Leetcode-solutions/tree/master/2643-row-with-maximum-ones) |
 | [2933-high-access-employees](https://github.com/Nitin-777/Leetcode-solutions/tree/master/2933-high-access-employees) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1686-stone-game-vi](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1686-stone-game-vi) |
 | [2029-stone-game-ix](https://github.com/Nitin-777/Leetcode-solutions/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Nitin-777/Leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/Nitin-777/Leetcode-solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nitin-777/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nitin-777/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
