@@ -1,6 +1,6 @@
 class Solution {
 public:
-            int s=0;
+            
            int t[201][20005];
 
             bool solve(int n, int s, int sum, vector<int>& nums){
@@ -30,6 +30,6 @@ public:
         if(sum % 2 != 0) return false;
         sum/=2;
 
-        return solve(n-1,s, sum, nums);
+        return solve(n-1,0, sum, nums);
     }
 };
