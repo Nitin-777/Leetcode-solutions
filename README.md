@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0403-frog-jump](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0403-frog-jump) |
+| [0416-partition-equal-subset-sum](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0877-stone-game) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0403-frog-jump](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0403-frog-jump) |
+| [0416-partition-equal-subset-sum](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1140-stone-game-ii) |
@@ -330,4 +332,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nitin-777/Leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
