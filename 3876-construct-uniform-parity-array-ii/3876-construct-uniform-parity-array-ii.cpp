@@ -1,0 +1,19 @@
+class Solution {
+public:
+    bool uniformArray(vector<int>& nums1) {
+         bool allEven= true;
+         bool allOdd= true;
+
+         for(int i=0; i<nums1.size(); i++){
+            if(nums1[i] % 2 != 0) allEven= false;
+
+            else allOdd= false;
+         }
+         sort(nums1.begin(), nums1.end());
+         if(allEven || allOdd) return true;
+
+         if(nums1[0] % 2 == 0) return false;
+
+         return true;
+    }
+};
