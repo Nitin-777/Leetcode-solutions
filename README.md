@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0455-assign-cookies) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0486-predict-the-winner) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0322-coin-change](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0322-coin-change) |
 ## Binary Search
 |  |
 | ------- |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 ## 0-1 Knapsack
 |  |
@@ -354,4 +358,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0455-assign-cookies) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
