@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Nitin-777/Leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2933-high-access-employees](https://github.com/Nitin-777/Leetcode-solutions/tree/master/2933-high-access-employees) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nitin-777/Leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0606-construct-string-from-binary-tree](https://github.com/Nitin-777/Leetcode-solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Nitin-777/Leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Nitin-777/Leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2933-high-access-employees](https://github.com/Nitin-777/Leetcode-solutions/tree/master/2933-high-access-employees) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1686-stone-game-vi](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1686-stone-game-vi) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nitin-777/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Nitin-777/Leetcode-solutions/tree/master/2029-stone-game-ix) |
